@@ -1,0 +1,2 @@
+# PatternRecognition_Experiment
+这里是模式识别的期末大作业
